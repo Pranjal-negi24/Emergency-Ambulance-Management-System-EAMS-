@@ -1,0 +1,5 @@
+hospital_id,name,location,available_beds,total_beds,phone
+1,City Hospital,Hospital Road,12,40,0135-2700001
+2,Medical College,University,20,120,0135-2700002
+3,Doon General Hospital,Clock Tower,6,60,0135-2700003
+4,Prem Nagar Clinic,Prem Nagar,0,15,0135-2700004
