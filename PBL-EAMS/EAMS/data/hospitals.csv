@@ -1,0 +1,59 @@
+hospital_id,hospital_name,hospital_type,speciality,location_id,available_beds,total_beds,icu_beds_available,trauma_unit,emergency_phone
+HOS001,City General Hospital,Private,General,LOC033,19,150,15,No,0135-2224643
+HOS002,Sanjeevani Hospital,Private,Multispeciality,LOC037,296,500,50,Yes,0135-2495948
+HOS003,Lifeline Medical Centre,Private,Trauma Centre,LOC013,11,75,6,Yes,0135-2371507
+HOS004,Apex Super Speciality Hospital,Trust,Trauma Centre,LOC027,224,500,3,Yes,0135-2706073
+HOS005,Shanti Care Hospital,Trust,General,LOC004,258,400,21,Yes,0135-2839482
+HOS006,Jeevan Rekha Hospital,Private,General,LOC016,34,150,14,No,0135-2146991
+HOS007,Metro Heart Institute,Private,Cardiac,LOC028,15,100,7,No,0135-2261941
+HOS008,Sunrise Multispeciality Hospital,Private,General,LOC029,26,75,0,No,0135-2097793
+HOS009,Arogya Hospital,Private,Multispeciality,LOC011,97,400,30,Yes,0135-2224130
+HOS010,Ganga Medical College & Hospital,Private,Trauma Centre,LOC004,0,100,0,Yes,0135-2409386
+HOS011,Shri Ram Hospital,Private,Multispeciality,LOC030,86,200,17,Yes,0135-2694022
+HOS012,Medicare Trauma Centre,Private,Trauma Centre,LOC032,13,100,4,Yes,0135-2228275
+HOS013,Himalaya Institute of Medical Sciences,Trust,General,LOC038,21,50,2,No,0135-2059942
+HOS014,Navjeevan Hospital,Trust,General,LOC038,334,500,33,Yes,0135-2165080
+HOS015,Prime Care Hospital,Private,General,LOC033,35,75,1,No,0135-2623939
+HOS016,Ayush Hospital,Private,General,LOC016,179,400,36,Yes,0135-2258175
+HOS017,Kailash Hospital,Private,General,LOC040,10,75,5,No,0135-2980110
+HOS018,Orchid Children's Hospital,Trust,Children,LOC017,67,150,10,No,0135-2250280
+HOS019,Vardan Hospital,Trust,Multispeciality,LOC026,12,100,10,Yes,0135-2314569
+HOS020,Rainbow Women & Child Hospital,Private,Children,LOC030,69,300,0,Yes,0135-2480547
+HOS021,Sai Krishna Hospital,Trust,General,LOC005,0,150,8,No,0135-2138890
+HOS022,Mahaveer Hospital,Private,Multispeciality,LOC005,65,150,9,Yes,0135-2165409
+HOS023,Neelkanth Hospital,Trust,Trauma Centre,LOC035,35,200,20,Yes,0135-2554634
+HOS024,Dhanvantari Hospital,Trust,General,LOC036,70,200,3,Yes,0135-2984539
+HOS025,Care & Cure Hospital,Private,Multispeciality,LOC017,31,75,2,Yes,0135-2285577
+HOS026,Pushpanjali Hospital,Trust,Multispeciality,LOC039,0,150,10,Yes,0135-2213487
+HOS027,Bharat Cancer Hospital,Private,Multispeciality,LOC033,221,500,3,Yes,0135-2096781
+HOS028,Vision Eye & ENT Hospital,Private,Trauma Centre,LOC018,21,50,2,Yes,0135-2808577
+HOS029,Safdarjung Memorial Hospital,Trust,Multispeciality,LOC017,50,100,7,Yes,0135-2578478
+HOS030,District Government Hospital,Government,Trauma Centre,LOC036,8,50,0,Yes,0135-2078898
+HOS031,Civil Hospital,Government,Multispeciality,LOC035,22,50,2,Yes,0135-2610805
+HOS032,Community Health Centre,Government,Multispeciality,LOC028,21,100,0,Yes,0135-2323232
+HOS033,ESI Hospital,Government,Multispeciality,LOC003,47,300,6,Yes,0135-2715198
+HOS034,Railway Central Hospital,Government,Multispeciality,LOC007,158,300,24,Yes,0135-2587080
+HOS035,Army Referral Hospital,Government,Trauma Centre,LOC040,43,100,3,Yes,0135-2906604
+HOS036,Fortune Heart Care,Private,Cardiac,LOC011,47,100,0,No,0135-2188073
+HOS037,Trinity Hospital,Private,Multispeciality,LOC027,59,150,5,Yes,0135-2825622
+HOS038,Samarpan Hospital,Private,General,LOC025,19,50,1,No,0135-2209267
+HOS039,Aastha Hospital,Private,Trauma Centre,LOC023,113,200,7,Yes,0135-2024813
+HOS040,Deep Jyoti Hospital,Private,Multispeciality,LOC026,113,300,27,Yes,0135-2072792
+HOS041,Lotus Hospital,Trust,Multispeciality,LOC023,261,400,34,Yes,0135-2347235
+HOS042,Max Life Care Hospital,Private,General,LOC008,0,200,18,Yes,0135-2278361
+HOS043,Unity Hospital,Private,General,LOC007,126,400,20,Yes,0135-2457592
+HOS044,Gurukul Medical Centre,Private,General,LOC025,37,150,1,No,0135-2743215
+HOS045,Anand Hospital,Private,Trauma Centre,LOC001,31,150,13,Yes,0135-2073372
+HOS046,Krishna Trauma & Ortho Hospital,Trust,Trauma Centre,LOC022,170,300,27,Yes,0135-2130679
+HOS047,Tulsi Hospital,Trust,Multispeciality,LOC033,29,200,13,Yes,0135-2342027
+HOS048,Amrit Hospital,Private,Trauma Centre,LOC019,28,100,6,Yes,0135-2697229
+HOS049,Saraswati Hospital,Private,Trauma Centre,LOC012,79,200,17,Yes,0135-2874224
+HOS050,Heritage Hospital,Private,General,LOC020,61,200,13,Yes,0135-2823927
+HOS051,Green Cross Hospital,Private,Multispeciality,LOC030,184,500,43,Yes,0135-2224082
+HOS052,Mother Care Hospital,Private,Trauma Centre,LOC011,34,75,5,Yes,0135-2097923
+HOS053,Evergreen Hospital,Private,Multispeciality,LOC020,21,150,4,Yes,0135-2025611
+HOS054,Panchsheel Hospital,Trust,General,LOC016,203,500,49,Yes,0135-2076365
+HOS055,Rajdhani Hospital,Trust,Trauma Centre,LOC027,29,150,12,Yes,0135-2518392
+HOS056,Shiv Shakti Hospital,Trust,Trauma Centre,LOC016,30,100,0,Yes,0135-2936021
+HOS057,Satyam Hospital,Private,General,LOC028,98,150,14,No,0135-2052657
+HOS058,Rudra Hospital,Private,Multispeciality,LOC008,176,500,29,Yes,0135-2700005

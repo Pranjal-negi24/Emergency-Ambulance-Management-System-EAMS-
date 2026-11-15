@@ -1,0 +1,2 @@
+New patient - Pranjal (ID 7) added, problem: Heart Attack
+Admission - Patient Pranjal (ID 7) admitted at Samarpan Hospital

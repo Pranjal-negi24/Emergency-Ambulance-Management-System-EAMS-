@@ -1,0 +1,41 @@
+location_id,area_name,zone,location_type,latitude,longitude,pincode
+LOC001,Central Market,North,Residential,30.318648,77.989183,248005
+LOC002,Railway Station,North,Highway,30.318507,78.037259,248019
+LOC003,Bus Stand,West,Residential,30.204768,77.984982,248017
+LOC004,City Mall,Central,Residential,30.289799,78.064563,248018
+LOC005,Airport Road,West,Commercial,30.271873,77.994511,248001
+LOC006,Old Town,South,Highway,30.267618,77.994459,248007
+LOC007,New Colony,East,Residential,30.214839,77.965475,248012
+LOC008,Civil Lines,Central,Transport Hub,30.329141,78.066757,248018
+LOC009,Model Town,North,Industrial,30.212608,77.996909,248020
+LOC010,Industrial Area,East,Educational,30.230766,77.961129,248008
+LOC011,Sector 1,East,Residential,30.336851,78.088637,248013
+LOC012,Sector 5,East,Industrial,30.30171,78.008373,248012
+LOC013,Sector 12,East,Commercial,30.307228,78.062291,248003
+LOC014,University Campus,Central,Highway,30.227382,78.06666,248006
+LOC015,Lake View,West,Industrial,30.243192,78.098063,248018
+LOC016,Green Park,South,Highway,30.251885,78.07293,248002
+LOC017,Stadium Road,South,Public Place,30.205136,78.000472,248009
+LOC018,Highway Junction,North,Commercial,30.346102,78.040749,248011
+LOC019,Clock Tower,South,Highway,30.279877,78.091549,248015
+LOC020,Court Road,South,Transport Hub,30.222341,78.069198,248018
+LOC021,Bank Colony,East,Highway,30.293534,78.093652,248013
+LOC022,Garden Road,East,Commercial,30.359572,77.972133,248016
+LOC023,River Side,North,Public Place,30.207539,77.967544,248006
+LOC024,Hill Top,West,Educational,30.210164,78.011059,248015
+LOC025,Metro Station,Central,Transport Hub,30.355373,78.087725,248001
+LOC026,Tech Park,North,Highway,30.341566,78.07014,248011
+LOC027,Medical Square,North,Transport Hub,30.269562,78.022596,248009
+LOC028,School Road,Central,Public Place,30.228584,78.09602,248010
+LOC029,Temple Road,Central,Educational,30.231826,78.009826,248006
+LOC030,Sabzi Mandi,Central,Public Place,30.347589,78.096959,248020
+LOC031,Gandhi Chowk,East,Industrial,30.203116,78.098656,248010
+LOC032,Nehru Nagar,South,Residential,30.238539,78.040777,248003
+LOC033,Shastri Nagar,North,Highway,30.277758,77.961074,248018
+LOC034,Subhash Colony,South,Commercial,30.30556,78.101496,248006
+LOC035,Patel Nagar,East,Educational,30.339589,78.017702,248007
+LOC036,Rajiv Chowk,Central,Public Place,30.316789,77.982184,248010
+LOC037,Ambedkar Road,West,Highway,30.30398,78.020096,248017
+LOC038,Tilak Marg,West,Residential,30.239665,77.960244,248001
+LOC039,Park Street,Central,Educational,30.236818,77.985235,248003
+LOC040,Ring Road Crossing,North,Commercial,30.210784,77.955026,248011
