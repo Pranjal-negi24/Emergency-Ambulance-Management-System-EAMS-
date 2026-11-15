@@ -10,17 +10,13 @@
 #include "Traversals.h"
 #include "Input.h"
 using namespace std;
-
-// Guided demonstration of every data structure used in EAMS.
-// It works on small sample data, so the real patients, ambulances and hospitals are not changed.
-
+// Guided demonstration of every data structure used in EAMS
 inline bool demoPause()
 {
     cout << "\n(Press Enter to continue)";
     string line;
     return readLine(line);
 }
-
 inline void demoTitle(string title, string usedFor)
 {
     cout << "\n==================================================\n";
@@ -28,7 +24,6 @@ inline void demoTitle(string title, string usedFor)
     cout << "Used in EAMS for: " << usedFor << "\n";
     cout << "==================================================\n";
 }
-
 inline void demoLinkedList()
 {
     demoTitle("1. LINKED LIST", "active ambulance trips (menu 19, 23) and all records (menu 17, 18, 22)");
@@ -43,7 +38,6 @@ inline void demoLinkedList()
     trips.display();
     cout << "Is ambulance 101 still on a trip? " << (trips.contains(101) ? "Yes" : "No") << "\n";
     cout << "Is ambulance 102 still on a trip? " << (trips.contains(102) ? "Yes" : "No") << "\n";
-
     cout << "\nRecords are also a linked list. Every event adds a new record at the end:\n";
     RecordList records;
     records.addRecord("New patient - Asha (ID 7) added, problem: Fever");
@@ -53,7 +47,6 @@ inline void demoLinkedList()
     cout << "Searching the list for the word \"admission\":\n";
     records.search("admission");
 }
-
 inline void demoStack()
 {
     demoTitle("2. STACK (last in, first out)", "history of admitted patients (menu 15), history of departed ambulances (menu 16), DFS (menu 11)");
@@ -76,7 +69,6 @@ inline void demoStack()
     history.peekFromTop(0, x);
     cout << x << "\n";
 }
-
 inline void demoQueue()
 {
     demoTitle("3. QUEUE (first in, first out)", "patients waiting for hospital admission (menu 13, 14), BFS (menu 10)");
@@ -99,7 +91,6 @@ inline void demoQueue()
     cout << "Next admitted: patient " << x << " (the one who waited longest always goes first)\n";
     cout << "Patients still waiting: " << waiting.size() << "\n";
 }
-
 inline void demoPriorityQueue()
 {
     demoTitle("4. PRIORITY QUEUE (max-heap)", "pending emergencies (menu 5, 6, 7): the most critical patient is dispatched first");
@@ -122,7 +113,6 @@ inline void demoPriorityQueue()
     }
     cout << "Patients 22 and 24 both have severity 5, so the one reported first (22) goes first.\n";
 }
-
 inline void demoHashTable()
 {
     demoTitle("5. HASH TABLE", "finding a patient by ID without searching the whole list (menu 21)");
@@ -150,7 +140,6 @@ inline void demoHashTable()
     table.remove(205);
     table.display();
 }
-
 inline void demoGraph(Graph &city)
 {
     demoTitle("6. GRAPH (with Dijkstra, BFS and DFS)", "road map: shortest routes, nearest ambulance and hospital (menu 6, 9, 10, 11)");
@@ -167,7 +156,6 @@ inline void demoGraph(Graph &city)
     Dijkstra dijkstra;
     dijkstra.shortestPath(city, 0, city.getPlaceCount() - 1);
 }
-
 inline void runDataStructureDemo(Graph &city)
 {
     cout << "\n##### DATA STRUCTURE DEMONSTRATION #####\n";
@@ -186,5 +174,4 @@ inline void runDataStructureDemo(Graph &city)
     demoGraph(city);
     cout << "\n##### END OF DEMONSTRATION #####\n";
 }
-
 #endif
