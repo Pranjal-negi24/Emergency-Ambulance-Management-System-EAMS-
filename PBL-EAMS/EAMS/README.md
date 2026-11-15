@@ -1,4 +1,4 @@
-# Emergency Ambulance Management System (EAMS) - C++17 Version
+  # Emergency Ambulance Management System (EAMS) - C++17 Version
 
 EAMS is a console project that manages emergency patients, ambulances and hospitals. The most critical patient is dispatched first, the nearest free ambulance and the nearest hospital with a free bed are chosen using the road map, and every step is recorded. Each data structure is used in a real feature and can also be seen working in a guided demonstration (menu option 24).
 
@@ -94,6 +94,5 @@ Everything is saved automatically after each change and loaded again at the next
 | `include/Demo.h` | the data structure demonstration (option 24) |
 
 ## Notes
-- Locations, road distances, drivers and hospitals are sample data (the road distances are estimated from the coordinates in `locations.csv`), not live road or GPS information. Treat this as an academic prototype, not a real emergency dispatch tool.
+- Locations, road distances, drivers and hospitals are sample data (the road distances are estimated from the coordinates in `locations.csv`), not live road or GPS information. This is an academic prototype, not a real emergency dispatch tool.
 - Names and problems can have spaces but no commas, and are limited to 40 characters.
-- Please read each class and method, change the sample names and data, and make sure the team can explain and test the code before presenting it.
